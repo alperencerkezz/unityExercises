@@ -1,0 +1,4 @@
+repository "SKI-PROJECT@SugarVirus@cloud"
+  path "/"
+    br "/main"
+    co "/main"
